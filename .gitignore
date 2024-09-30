@@ -4,3 +4,4 @@ dist/
 run.sh
 *.pyc
 .env
+archive/
